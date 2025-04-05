@@ -1,4 +1,42 @@
 ## Hi there 👋
+Project Title
+
+
+Demo Link
+
+
+Table of Contents (optional)
+
+
+Business Understanding
+
+
+
+Data Understanding
+
+
+
+Screenshots of Visualizations/Results
+
+
+
+Technologies
+
+
+
+Setup
+
+
+
+Approach
+
+
+
+Status
+
+
+
+Credits
 
 <!--
 **yonin216/yonin216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
